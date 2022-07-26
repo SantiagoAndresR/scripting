@@ -1,0 +1,2 @@
+Marmota.jpg.jpg filter=lfs diff=lfs merge=lfs -text
+Marmota.jpg filter=lfs diff=lfs merge=lfs -text
